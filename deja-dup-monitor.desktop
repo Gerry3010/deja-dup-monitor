@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Deja-Dup Monitor
+Name[de]=Deja-Dup Monitor
+Comment=Monitor Deja-Dup backup progress in real time
+Comment[de]=Deja-Dup Sicherungsfortschritt in Echtzeit überwachen
+Exec=/home/gerry/Projekte/deja-dup-monitor/run.sh
+Icon=deja-dup
+Terminal=false
+Type=Application
+Categories=Utility;System;
+Keywords=backup;deja-dup;restic;monitor;sicherung;
+StartupNotify=true
+StartupWMClass=deja-dup-monitor
